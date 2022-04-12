@@ -20,4 +20,4 @@ This is a development archive of a high fidelity prototype or a UI design of a c
 
 # Final Prototype Simulation Link
 
-URL: https://github.com/Prianshu08/Covid_Mobile_App
+URL: https://www.figma.com/file/defc8o8otBEYLJ5gdbKDvs/MainProject?node-id=0%3A1
